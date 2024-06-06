@@ -1,4 +1,4 @@
-[![MasterHead](https://www.w3care.com/images/uploads/testimonials/App-Development.webp)]
+![MasterHead](https://www.w3care.com/images/uploads/testimonials/App-Development.webp)
 <h1 align="center">Hi 👋, I'm Madhav</h1>
 <h3 align="center">A passionate app developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-photos-vectors/coding-animation">
